@@ -1,0 +1,11 @@
+body {
+    max-width: 50em;
+}
+
+#wrapper {
+    width: 480px;
+}
+
+body, #wrapper {
+    margin: 0em auto;
+}
